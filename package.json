@@ -1,8 +1,8 @@
 {
-  "name": "@adiwajshing/baileys",
+  "name": "felipefidelo/baileys",
   "version": "5.0.0",
   "description": "WhatsApp API",
-  "homepage": "https://github.com/adiwajshing/Baileys",
+  "homepage": "https://github.com/felipefidelo/baileys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
